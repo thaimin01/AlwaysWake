@@ -28,3 +28,13 @@ Case
 
 <img width="986" height="753" alt="case" src="https://github.com/user-attachments/assets/b4a8f751-a214-4950-800d-06b223b73d11" />
 
+
+Bill of materials
+
+| Reference | Qty | Value | DNP | Exclude from BOM | Exclude from Board | Exclude from Simulation | Exclude from Position Files | Footprint | Datasheet |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| BZ1 | 1 | Buzzer | | | | | ${EXCLUDE_FROM_POS_FILES} | Buzzer_Beeper:Buzzer_12x9.5RM7.6 | |
+| J1 | 1 | Conn_01x08_Pin | | | | | ${EXCLUDE_FROM_POS_FILES} | Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical | |
+| MX1, MX2, MX4, MX5 | 4 | MX_SW_HS | | | | | ${EXCLUDE_FROM_POS_FILES} | marbastlib-xp-mx:SW_MX_Reversible_1u | |
+| U1 | 1 | XIAO-RP2040-SMD | | | | | ${EXCLUDE_FROM_POS_FILES} | Seeed_Studio_XIAO_Series:XIAO-RP2040-SMD | |
+
