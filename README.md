@@ -1,3 +1,4 @@
+
 # AlwaysWake
 An alarm clock that comes with 4 mechanical switches, a 2.25 inch TFT screen, and runs on rp2040
 
@@ -27,6 +28,8 @@ PCB
 Case
 
 <img width="986" height="753" alt="case" src="https://github.com/user-attachments/assets/b4a8f751-a214-4950-800d-06b223b73d11" />
+
+<img width="1096" height="760" alt="casewithpcb" src="https://github.com/user-attachments/assets/b206cca0-f403-49cc-adbd-a1ff38e4432b" />
 
 
 Bill of materials
