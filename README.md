@@ -41,3 +41,6 @@ Bill of materials
 | MX1, MX2, MX4, MX5 | 4 | MX_SW_HS | | | | | ${EXCLUDE_FROM_POS_FILES} | marbastlib-xp-mx:SW_MX_Reversible_1u | |
 | U1 | 1 | XIAO-RP2040-SMD | | | | | ${EXCLUDE_FROM_POS_FILES} | Seeed_Studio_XIAO_Series:XIAO-RP2040-SMD | |
 
+Coding interface
+
+Code by a Human, on Arduino IDE, And C++ !!!
