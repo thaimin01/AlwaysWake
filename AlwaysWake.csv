@@ -3,3 +3,7 @@
 "J1","1","Conn_01x08_Pin","","","","","${EXCLUDE_FROM_POS_FILES}","Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical",""
 "MX1,MX2,MX4,MX5","4","MX_SW_HS","","","","","${EXCLUDE_FROM_POS_FILES}","marbastlib-xp-mx:SW_MX_Reversible_1u",""
 "U1","1","XIAO-RP2040-SMD","","","","","${EXCLUDE_FROM_POS_FILES}","Seeed_Studio_XIAO_Series:XIAO-RP2040-SMD",""
+"","4","M3x8mm Screws","","","","","","",""
+"","4","M3x16mm Screws","","","","","","",""
+"","8","M3x5x4 Heatset Inserts","","","","","","",""
+"","8","20cm Female-Female Jumper Wires (For connecting your screen off of the pcb)","","","","","","",""
